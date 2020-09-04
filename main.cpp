@@ -13,7 +13,7 @@
 int main() {
     cout << endl << endl;
     lab_demo ();// the lab program
-    //plane_demo ();// the plan program
+    //plane_demo ();// the plane program
     cout << endl << endl << "=========END=========" << endl << endl;
     return 0;
 }
